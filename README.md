@@ -1,1 +1,1 @@
-Exercice made for creating three different types of configuration of a web site using media queries.
+Three different types of configuration for a web site were made using media queries.
