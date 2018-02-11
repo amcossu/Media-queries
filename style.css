@@ -16,6 +16,15 @@ p {
     font-family: Helvetica, sans-serif;
 }
 
+.conf2,
+.conf3 {
+    display: none;
+}
+
+.description {
+    text-align: center;
+}
+
 .container {
     display: flex;
     justify-content: space-between;
@@ -39,11 +48,16 @@ p {
     .container {
         display: block;
     }
-    h1 {
-        display: none;
-    }
+    h1,
     h2 {
         display: none;
+    }
+    .conf1 {
+        display: none;
+    }
+    .conf2 {
+        display: block;
+        margin-bottom: 5%;
     }
     .first_div {
         margin-bottom: 5%;
@@ -65,6 +79,14 @@ p {
     h1,
     h2 {
         display: block;
+    }
+    .conf1,
+    .conf2 {
+        display: none;
+    }
+    .conf3 {
+        display: block;
+        margin-bottom: 5%;
     }
     .container {
         display: block;
