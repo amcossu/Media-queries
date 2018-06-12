@@ -1,6 +1,5 @@
 Three different types of responsive configuration for a template web site were made using media queries.
 
-https://amcossu.github.io/Media-queries/
 
 Configuration 1 - standard configuration (tablet and pc).
 
